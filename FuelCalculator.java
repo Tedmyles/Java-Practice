@@ -21,9 +21,9 @@ public class FuelCalculator {
 
     }
     public static void main(String[] args) {
-        System.out.println(calculateFuel(15));    // ➞ 150
-        System.out.println(calculateFuel(23.5));  // ➞ 235
-        System.out.println(calculateFuel(3));     // ➞ 100
+        System.out.println(calculateFuel(15));   
+        System.out.println(calculateFuel(23.5));  
+        System.out.println(calculateFuel(3));     
     }
 
 }
